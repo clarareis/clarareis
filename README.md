@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning JavaScript, HTML and CSS.
 - 👯 I’m looking to collaborate with a better world.
 - 💬 Ask me about anything and I'll show you I don't know much 🙆‍♀️
-- 💻 Contact me: maria_clara_reis@outlook.com
 
 ##
 
@@ -13,17 +12,72 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarareis&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
+## Languages
+
 <div style="display: inline_block"> <br>
-  <img align="center" alt="Clara-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Clara-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Clara-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Clara-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <image alineg=center alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <image alineg=center alt="ccs3" src="https://img.shields.io/badge/CSS-blue?&style=for-the-badge&logo=css3&logoColor=white" />
+  <image alineg=center alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <image alineg=center alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div>
+
+
+## Languages & Tools
+<table width="320px">
+    <tbody>
+        <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>Javascript</strong></span><br>
+            <img height="32px" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>HTML</strong></span><br>
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>CSS</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>React</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Redux</strong></span><br>
+            <img height="32" src="https://cdn.worldvectorlogo.com/logos/redux.svg">
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>Jest</strong></span><br>
+            <img height="32px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg">
+            <td width="80px" align="center">
+            <span><strong>RTL</strong></span><br>
+            <img height="32" src="https://testing-library.com/img/octopus-128x128.png">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>ESLint</strong></span><br>
+            <img height="32px" src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>GitHub</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-word.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>git</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+        </tr>
+    </tbody>
+</table>
   
-  ##
+  ## Contats
  
 <div> 
-  <a href="https://www.linkedin.com/in/mariaclarasilvamoreiradosreis/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<p align="left">
+  <a href="https://www.linkedin.com/in/mariaclarasilvamoreiradosreis/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:mariaclaradosreiys@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+</p>  
+
  
   ![Snake animation](https://github.com/clarareis/clarareis/blob/output/github-contribution-grid-snake.svg)
  
