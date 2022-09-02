@@ -12,7 +12,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarareis&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-## Languages & Tools
+## Languages
 <table width="320px">
     <tbody>
         <tr valign="top">
@@ -37,6 +37,12 @@
             <img height="32" src="https://cdn.worldvectorlogo.com/logos/redux.svg">
             </td>
         </tr>
+      </tbody>
+  </table>
+      
+  ## Tools
+  <table width="320px">
+    <tbody>
         <tr valign="top">
             <td width="80px" align="center">
             <span><strong>Jest</strong></span><br>
@@ -51,11 +57,19 @@
             </td>
             <td width="80px" align="center">
             <span><strong>GitHub</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
             </td>
             <td width="80px" align="center">
-            <span><strong>git</strong></span><br>
+            <span><strong>Git</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>VSCode</strong></span><br>
+            <img height="32px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Linux</strong></span><br>
+            <img height="32px" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg">
         </tr>
     </tbody>
 </table>
