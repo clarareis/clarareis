@@ -74,7 +74,7 @@
     </tbody>
 </table>
   
-  ## Contats
+  ## My contacts
  
 <div> 
 <p align="left">
