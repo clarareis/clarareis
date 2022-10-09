@@ -1,4 +1,4 @@
-## Hello!! I'm Maria Clara 👋
+## Hi!! I'm Maria Clara 👋
 
 - 🌱 I’m currently learning JavaScript, HTML and CSS.
 - 👯 I’m looking to collaborate with a better world.
