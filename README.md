@@ -1,4 +1,4 @@
-## Hi!! 👋 I'm Maria Clara.
+## 👋 Hi!! I'm Maria Clara.
 
 - 🌱 I’m currently learning Node.Js and Software Architecture.
 - 🌱 I started my career transition in 2022, learning web development at Trybe.
@@ -13,7 +13,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarareis&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-## Languages
+## Languages & Tools
 <table width="320px">
     <tbody>
         <tr valign="top">
@@ -37,14 +37,6 @@
             <span><strong>Redux</strong></span><br>
             <img height="32" src="https://cdn.worldvectorlogo.com/logos/redux.svg">
             </td>
-        </tr>
-      </tbody>
-  </table>
-      
-  ## Tools
-  <table width="320px">
-    <tbody>
-        <tr valign="top">
             <td width="80px" align="center">
             <span><strong>Jest</strong></span><br>
             <img height="32px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg">
@@ -56,9 +48,27 @@
             <span><strong>ESLint</strong></span><br>
             <img height="32px" src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg">
             </td>
+        </tr>
+      </tbody>
+  </table>
+  <table width="320px">
+    <tbody>
+        <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>Node.JS</strong></span><br>
+            <img height="32px" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Docker</strong></span><br>
+            <img height="32px" src="https://icongr.am/devicon/docker-original.svg?size=128&color=currentColor">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>MySQL</strong></span><br>
+            <img height="32px" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor">
+            </td>
             <td width="80px" align="center">
             <span><strong>GitHub</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+            <img height="32px" src="https://icongr.am/devicon/github-original.svg?size=128&color=currentColor">
             </td>
             <td width="80px" align="center">
             <span><strong>Git</strong></span><br>
@@ -74,6 +84,8 @@
         </tr>
     </tbody>
 </table>
+
+---
   
   ## My contacts
  
@@ -81,9 +93,10 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/mariaclarasilvamoreiradosreis/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:mariaclaradosreiys@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-</p>  
+</p>
 
- 
-  ![Snake animation](https://github.com/clarareis/clarareis/blob/output/github-contribution-grid-snake.svg)
+---
+
+![Snake animation](https://github.com/clarareis/clarareis/blob/output/github-contribution-grid-snake.svg)
  
 </div>
