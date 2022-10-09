@@ -1,4 +1,4 @@
-## Hi!! I'm Maria Clara 👋
+## Hi!! 👋 I'm Maria Clara.
 
 - 🌱 I’m currently learning Node.Js and Software Architecture.
 - 🌱 I started my career transition in 2022, learning web development at Trybe.
