@@ -1,6 +1,7 @@
 ## 👋 Hi!! I'm Maria Clara.
 
 - 🌱 I’m currently learning Outsystems Mobile.
+- 🎯 In 2024 I will finish updating the CSS of my projects and upload the remaining 22 Trybe projects.
 - 🌱 I started my career transition in 2022, learning web development at Trybe.
 - 👯 I’m looking to collaborate with a better world.
 - 💬 Ask me about anything and I'll show you I don't know much 🙆‍♀️
