@@ -1,6 +1,6 @@
 ## 👋 Hi!! I'm Maria Clara.
 
-- 🌱 I’m currently learning MongoDB and Outsystems.
+- 🌱 I’m currently learning Outsystems Mobile.
 - 🌱 I started my career transition in 2022, learning web development at Trybe.
 - 👯 I’m looking to collaborate with a better world.
 - 💬 Ask me about anything and I'll show you I don't know much 🙆‍♀️
