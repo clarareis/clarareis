@@ -1,123 +1,209 @@
-## 👋 Hi!! I'm Maria Clara.
+## 💻 **Low Code Developer (OutSystems) | 📊 Data Analytics | 🤖 AI & Data Bootcamp**
 
-I'm a technology professional currently working in IT support, transitioning into Data Analytics and Business Intelligence.
+🇧🇷 [Português](#portugues) | 🇺🇸 [English](#english)
 
-### 🌱 What I'm learning:
-- Power BI and data storytelling  
-- SQL and relational database design   
+<a id="portugues"></a>
 
-### 🚀 Projects in progress:
-- Uploading and polishing my full stack portfolio from Trybe (22+ projects)  
-- Building a dashboard in Power BI to analyze sales and KPIs  
-- Personal documentation and mini-automation projects
+## 👋 Olá! Eu sou Clara
 
-### 💼 Background:
-I started my career in administration and business management, and in 2022 I made the leap into tech. Since then, I've been diving deep into development, systems logic, problem solving, and now... data!
+Sou uma profissional de tecnologia atuando com desenvolvimento **Low Code em OutSystems** e atualmente em transição para a área de **Data Analytics e Business Intelligence**.
 
-I believe in writing clean code, asking great questions, and using tech to create more clarity and smarter decisions.
+Tenho experiência com **desenvolvimento full stack, lógica de sistemas e resolução de problemas**, e agora estou direcionando minha carreira para **análise de dados e geração de insights que apoiem decisões de negócio**.
 
-### ✨ Fun fact:
-I used to run payroll. Now I run queries.  
-One day: queries for insights.  
-Next day: queries for coffee. ☕  
+### 🌱 O que estou estudando atualmente
+
+- Power BI e construção de dashboards com **storytelling de dados**
+- Aperfeiçoando o conhecimento sobre **SQL e modelagem de bancos de dados relacionais**
+- Fundamentos de **análise de dados aplicada a negócios**
+
+### 🚀 Projetos em andamento
+
+**Bootcamp DIO – GenAI & Dados**
+
+Projetos práticos envolvendo **Python, análise de dados e aplicações com modelos de IA**.
+
+### 💼 Trajetória
+
+Minha carreira começou na área de **administração e gestão empresarial**, onde desenvolvi visão de **processos, organização e análise operacional**.
+
+Em **2022 fiz minha transição para tecnologia**, mergulhando em desenvolvimento de software, lógica de sistemas e resolução estruturada de problemas.
+
+Hoje estou direcionando essa base técnica para a **área de dados**, unindo tecnologia, análise e visão de negócio para transformar informações em decisões mais inteligentes.
+
+### 💡 Como eu gosto de trabalhar
+
+- Código limpo e bem estruturado  
+- Boas perguntas antes de boas respostas  
+- Tecnologia usada para gerar clareza e apoiar decisões  
+
+### ✨ Curiosidade
+
+Eu já fui responsável por **rodar folhas de pagamento**.
+
+Hoje eu rodo **queries — e gosto bem mais desse tipo de planilha.** 🙃
+
+📫 **Entre em contato comigo**
+
+[LinkedIn](https://www.linkedin.com/in/mariaclaramoreirareis)
 
 ---
 
-📫 Feel free to connect with me:  
-[LinkedIn](https://www.linkedin.com/in/mariaclarasilvamoreiradosreis) 
+<a id="english"></a>
 
-##
+## 👋 Hi! I'm Maria Clara
 
-<div align="center">
-  <a href="https://github.com/clarareis">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=clarareis&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarareis&layout=compact&langs_count=7&theme=radical"/>
-</div>
+I'm a technology professional currently working with **Low Code development using OutSystems**, and transitioning into **Data Analytics and Business Intelligence**.
 
-## Languages & Tools
-<table width="320px">
-    <tbody>
-        <tr valign="top">
-            <td width="80px" align="center">
-            <span><strong>Javascript</strong></span><br>
-            <img height="32px" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>HTML</strong></span><br>
-            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>CSS</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>React</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>Redux</strong></span><br>
-            <img height="32" src="https://cdn.worldvectorlogo.com/logos/redux.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>Jest</strong></span><br>
-            <img height="32px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg">
-            <td width="80px" align="center">
-            <span><strong>RTL</strong></span><br>
-            <img height="32" src="https://testing-library.com/img/octopus-128x128.png">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>ESLint</strong></span><br>
-            <img height="32px" src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg">
-            </td>
-        </tr>
-      </tbody>
-  </table>
-  <table width="320px">
-    <tbody>
-        <tr valign="top">
-            <td width="80px" align="center">
-            <span><strong>Node.JS</strong></span><br>
-            <img height="32px" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>Docker</strong></span><br>
-            <img height="32px" src="https://icongr.am/devicon/docker-original.svg?size=128&color=currentColor">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>MySQL</strong></span><br>
-            <img height="32px" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>GitHub</strong></span><br>
-            <img height="32px" src="https://icongr.am/devicon/github-original.svg?size=128&color=currentColor">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>Git</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>VSCode</strong></span><br>
-            <img height="32px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>Linux</strong></span><br>
-            <img height="32px" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg">
-        </tr>
-    </tbody>
+I have experience with **full stack development, systems logic, and problem solving**, and I am now directing my career toward **data analysis and generating insights that support business decisions**.
+
+### 🌱 What I'm currently learning
+
+- Power BI and building dashboards with **data storytelling**
+- Improving my knowledge of **SQL and relational database modeling**
+- Fundamentals of **business-oriented data analysis**
+
+### 🚀 Projects in progress
+
+**DIO Bootcamp – GenAI & Data**
+
+Hands-on projects involving **Python, data analysis, and applications using AI models**.
+
+### 💼 Background
+
+My career started in **administration and business management**, where I developed a strong understanding of **processes, organization, and operational analysis**.
+
+In **2022 I transitioned into technology**, diving into software development, systems logic, and structured problem solving.
+
+Today I am directing this technical foundation toward the **data field**, combining **technology, analysis, and business perspective** to transform information into smarter decisions.
+
+### 💡 How I like to work
+
+- Clean and well-structured code  
+- Asking good questions before giving answers  
+- Using technology to bring clarity and support decision-making  
+
+### ✨ Fun fact
+
+I used to run **payroll**.
+
+Now I run **queries — and I definitely prefer this kind of spreadsheet.**
+
+📫 **Feel free to connect with me**
+
+[LinkedIn](https://www.linkedin.com/in/mariaclaramoreirareis)
+
+---
+
+## 📊 GitHub Stats
+
+![Clara's GitHub stats](https://github-readme-stats.vercel.app/api?username=clarareis&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clarareis&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=clarareis&theme=radical)
+
+---
+
+## 🛠 Languages & Tools
+
+<table>
+<tr>
+
+<td align="center">
+<strong>JavaScript</strong><br>
+<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+</td>
+
+<td align="center">
+<strong>HTML</strong><br>
+<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+</td>
+
+<td align="center">
+<strong>CSS</strong><br>
+<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+</td>
+
+<td align="center">
+<strong>React</strong><br>
+<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+</td>
+
+<td align="center">
+<strong>Redux</strong><br>
+<img height="32" src="https://cdn.worldvectorlogo.com/logos/redux.svg">
+</td>
+
+<td align="center">
+<strong>Node.js</strong><br>
+<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+</td>
+
+<td align="center">
+<strong>SQL</strong><br>
+<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<strong>Docker</strong><br>
+<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+</td>
+
+<td align="center">
+<strong>MySQL</strong><br>
+<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+</td>
+
+<td align="center">
+<strong>Git</strong><br>
+<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+</td>
+
+<td align="center">
+<strong>GitHub</strong><br>
+<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+</td>
+
+<td align="center">
+<strong>VSCode</strong><br>
+<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+</td>
+
+<td align="center">
+<strong>Linux</strong><br>
+<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+</td>
+
+</tr>
+
 </table>
 
 ---
-  
-  ## My contacts
- 
-<div> 
-<p align="left">
-  <a href="https://www.linkedin.com/in/mariaclarasilvamoreiradosreis/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:mariaclaradosreiys@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+
+## 📬 My Contacts
+
+<p>
+
+<a href="https://www.linkedin.com/in/mariaclaramoreirareis/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:mariaclaradosreiys@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
 </p>
 
 ---
 
+## 🐍 Contributions
+
+<div align="center">
+
 ![Snake animation](https://github.com/clarareis/clarareis/blob/output/github-contribution-grid-snake.svg)
- 
+
 </div>
