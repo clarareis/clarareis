@@ -96,10 +96,6 @@ Now I run **queries — and I definitely prefer this kind of spreadsheet.**
 
 ## 📊 GitHub Stats
 
-![Clara's GitHub stats](https://github-readme-stats.vercel.app/api?username=clarareis&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clarareis&layout=compact&theme=radical)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=clarareis&theme=radical)
 
 ---
@@ -107,11 +103,35 @@ Now I run **queries — and I definitely prefer this kind of spreadsheet.**
 ## 🛠 Languages & Tools
 
 <table>
+
 <tr>
+
+<td align="center">
+<img height="32" src="https://cdn.brandfetch.io/idgGlZ6VSa/theme/light/idmY86j34a.svg?c=1dxbfHSJFAPEGdCLU4o5B">
+</td>
+
+<td align="center">
+<strong>SQL</strong><br>
+<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+</td>
 
 <td align="center">
 <strong>JavaScript</strong><br>
 <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+</td>
+
+<td align="center">
+<img height="32" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</td>
+
+<td align="center">
+<strong>React</strong><br>
+<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+</td>
+
+<td align="center">
+<strong>Node.js</strong><br>
+<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 </td>
 
 <td align="center">
@@ -124,26 +144,6 @@ Now I run **queries — and I definitely prefer this kind of spreadsheet.**
 <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 </td>
 
-<td align="center">
-<strong>React</strong><br>
-<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-</td>
-
-<td align="center">
-<strong>Redux</strong><br>
-<img height="32" src="https://cdn.worldvectorlogo.com/logos/redux.svg">
-</td>
-
-<td align="center">
-<strong>Node.js</strong><br>
-<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-</td>
-
-<td align="center">
-<strong>SQL</strong><br>
-<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-</td>
-
 </tr>
 
 <tr>
@@ -151,11 +151,6 @@ Now I run **queries — and I definitely prefer this kind of spreadsheet.**
 <td align="center">
 <strong>Docker</strong><br>
 <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-</td>
-
-<td align="center">
-<strong>MySQL</strong><br>
-<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 </td>
 
 <td align="center">
@@ -176,6 +171,11 @@ Now I run **queries — and I definitely prefer this kind of spreadsheet.**
 <td align="center">
 <strong>Linux</strong><br>
 <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+</td>
+
+<td align="center">
+<strong>Redux</strong><br>
+<img height="32" src="https://cdn.worldvectorlogo.com/logos/redux.svg">
 </td>
 
 </tr>
